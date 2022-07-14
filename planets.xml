@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<planet>
+    <name>Earth</name>
+    <diameter>12500</diameter>
+    <forHuman>true</forHuman>
+    <percentAreaForLive>120000</percentAreaForLive>
+    <percentWater>5600</percentWater>
+</planet>

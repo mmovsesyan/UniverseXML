@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Galaxy>
+    <Name>Milky Way</Name>
+    <Planet>
+        <name>Earth</name>
+        <diameter>12500</diameter>
+        <forHuman>true</forHuman>
+        <percentAreaForLive>120000</percentAreaForLive>
+        <percentWater>5600</percentWater>
+    </Planet>
+    <Planet>
+        <name>Mars</name>
+        <diameter>6500</diameter>
+        <forHuman>false</forHuman>
+        <percentAreaForLive>20000</percentAreaForLive>
+        <percentWater>4000</percentWater>
+    </Planet>
+</Galaxy>
